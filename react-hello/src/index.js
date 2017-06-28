@@ -1,6 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 
-import GrandFather from './GrandFather'
+// import App from './App'
+import MulpForm from './MulpForm'
 
-ReactDOM.render(<GrandFather />, document.getElementById('root'))
+ReactDOM.render(<MulpForm />, document.getElementById('root'))
